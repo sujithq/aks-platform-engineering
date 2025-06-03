@@ -14,7 +14,7 @@ spec:
               values:
                 addonChart: cluster-api-operator
                 addonChartNamespace: capi-operator-system
-                addonChartVersion: 0.18.1
+                addonChartVersion: 0.20.0
                 addonChartRepository: https://kubernetes-sigs.github.io/cluster-api-operator
               selector:
                 matchExpressions:
